@@ -137,7 +137,7 @@ int main()
 		
 		else if(a=='~')
 		{
-			triple_bingo(); //just a demonstartion
+			triple_bingo(); //just a test
 		}
 	}
 	
