@@ -4,11 +4,11 @@
 
 	Name: BINGO MANIAC
 	Author: Aygent543 a.k.a Vishnu M Aiea
-	Copyright: (c) 2013, Vishnu M Aiea
+	Copyright (c) 2013, Vishnu M Aiea
 	License : GNU GPL version 3
 	Contact : vishnumaiea@gmail.com
-	Website : www.vishnumaiea.in
-	Date: 17:51, 13-04-2013 
+	Website : http://www.vishnumaiea.in/projects/software/bingo-maniac-game
+	Date: 17:51 IST, 13-04-2013 
 	
 	Description: 
 	
@@ -38,7 +38,7 @@
 	<http://www.gnu.org/licenses/>.
 	
 	
-	31-05-13 12:50
+	12:50 IST, 31-05-2013 
 	
 **************************************************************/
 
@@ -46,7 +46,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
-#include <conio2.h> //borland extension
+#include <conio2.h> //borland extension - http://old.devpaks.org/show.php?devpak=75
 #include <string.h>
 #include <time.h>
 
