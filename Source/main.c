@@ -6,9 +6,9 @@
 	Author: Aygent543 a.k.a Vishnu M Aiea
 	Copyright: (c) 2013, Vishnu M Aiea
 	License : GNU GPL version 3
-	Contact : aygent543@gmail.com
-	Website : http://sites.google.com/site/aygent543
-	Date: 13/04/13 17:51
+	Contact : vishnumaiea@gmail.com
+	Website : www.vishnumaiea.in
+	Date: 17:51, 13-04-2013 
 	
 	Description: 
 	
