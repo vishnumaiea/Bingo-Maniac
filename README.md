@@ -2,7 +2,6 @@
 A Bingo game written in C
 
 
-/***************************************************************
 
 	Name: BINGO MANIAC
 	Author: Aygent543 a.k.a Vishnu M Aiea
@@ -42,4 +41,3 @@ A Bingo game written in C
 	
 	12:50 IST, 31-05-2013 
 	
-**************************************************************/
