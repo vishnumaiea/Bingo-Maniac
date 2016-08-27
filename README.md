@@ -4,9 +4,9 @@ A console based Bingo game written in C for Windows.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-Name: BINGO MANIAC
+Name : BINGO MANIAC
 
-Author: AYGENT543 aka Vishnu M Aiea
+Author : AYGENT543 aka Vishnu M Aiea
 
 Copyright (c) 2013, Vishnu M Aiea
 
