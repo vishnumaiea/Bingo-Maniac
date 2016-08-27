@@ -1,13 +1,22 @@
 # Bingo-Maniac
+
 A Bingo game written in C
 
 Name: BINGO MANIAC
-Author: Aygent543 a.k.a Vishnu M Aiea
-Copyright: (c) 2013, Vishnu M Aiea
+
+Author: AYGENT543 aka Vishnu M Aiea
+
+Copyright (c) 2013, Vishnu M Aiea
+
 License : GNU GPL version 3
+
 Contact : vishnumaiea@gmail.com
+
 Website : http://www.vishnumaiea.in/projects/software/bingo-maniac-game
-Date: 17:51 IST, 13-04-2013 
+
+Date of initial release : 17:51 IST, 13-04-2013 
+
+----------------------------------------------------------------------------------------------------------------------
 
 Description: 
 
@@ -22,4 +31,4 @@ This program is distributed  in the hope that it will be useful, but WITHOUT ANY
 
 You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-12:50 IST, 31-05-2013 
+----------------------------------------------------------------------------------------------------------------------
