@@ -1,6 +1,8 @@
 # Bingo-Maniac
 
-A Bingo game written in C
+A console based Bingo game written in C for Windows.
+
+---------------------------------------------------------------------------------------------------------------------
 
 Name: BINGO MANIAC
 
@@ -24,6 +26,7 @@ BINGO game written in C of 99 standard. You are free (open) to modify and distri
 
 
 Press '9' on start up for information.
+
 Press 's' or 'S' to disable audio.
 
 
