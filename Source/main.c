@@ -180,7 +180,7 @@ int main()
 				status = 0; //if the number has not been filled
 			}
 		}
-		
+		 
 		if(status==1)
 		{
 			fill[m] = i; //collects filled
