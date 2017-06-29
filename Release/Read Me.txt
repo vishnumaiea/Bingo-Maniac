@@ -1,0 +1,3 @@
+Before you run this program, make sure that you've read the license and other details. A help pdf content is provided with the program. Read it to begin with the game.
+
+- AYGENT543
